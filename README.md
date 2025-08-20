@@ -13,7 +13,7 @@ This repository provides MATLAB implementation of **Ratio Sum Linear Discriminan
   Initialization function for RSLDA parameters.  
 
 ## Usage
-Run `demo_rslda.m` to reproduce the convergence comparison experiments.  
+Run `demo_rslda.m` to see a demonstration of the convergence comparison between the MM and DL algorithms.  
 
 If you use this code, please cite:
 
